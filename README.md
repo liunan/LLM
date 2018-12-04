@@ -1,0 +1,2 @@
+# LLM
+linux learn memento
