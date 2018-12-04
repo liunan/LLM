@@ -1,0 +1,4 @@
+# ifconfig
+## 
+
+# ifdown eth0
